@@ -1,0 +1,30 @@
+
+
+1. O(1);
+2. O(n);
+
+
+
+Even or Odd
+O(1)
+
+
+Are You Here?
+O(2^n)
+
+Doubler
+O(n)
+
+
+Naive Search
+O(n)
+
+
+Creating Pairs
+O(n^k)
+
+Compute the sequence
+O(n)
+
+An efficient Search
+O(log(n)
